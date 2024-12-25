@@ -34,9 +34,13 @@
   
 -LED矩陣顯示：
   透過8x8 LED矩陣呈現遊戲狀態，顯示通關或失敗的圖案。
+  
   成功
+  
   ![image](https://github.com/user-attachments/assets/5f62a032-0654-4960-8870-447803ee02c9)
+  
   失敗
+  
   ![image](https://github.com/user-attachments/assets/49657486-f165-412c-af65-a764172fac11)
 
 
